@@ -1,0 +1,4 @@
+# Ignora archivos de exportación
+build
+dist
+
